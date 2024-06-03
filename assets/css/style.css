@@ -1,0 +1,27 @@
+.cars{
+ border: 2px solid #b709e0;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: red;
+    font-family: "Bitstream Charter";
+}
+
+.farms{
+    border: 2px solid #093fe0;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: #00ffd9;
+    font-family: "Bitstream Charter";
+
+
+}
+#team{
+
+border: solid red 2px;
+     padding: 20px;
+     margin: 20px;
+     text-align: center;
+
+}

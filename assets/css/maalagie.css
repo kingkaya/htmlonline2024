@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #093fe0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    color: aqua;
+    display: block;
+    font-family: Beirut;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+li a:hover{
+    background-color: darkolivegreen;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: solid 2px royalblue;
+    padding: 15px;
+    margin: 15px;
+    font-family: sans-serif;
+}
